@@ -4,40 +4,29 @@ Core Objective: Reinforce understanding of manual memory management and object-o
 
 Key Learning Areas:
 
-Deep copy vs. shallow copy in constructors and assignment operators.
-
-Safe handling of dynamic memory with new and delete.
-
-Operator overloading to make custom classes behave like built-in types.
-
-Implementing friend functions to mimic standard C string library functions.
+1.Deep copy vs. shallow copy in constructors and assignment operators.
+2.Safe handling of dynamic memory with new and delete.
+3.Operator overloading to make custom classes behave like built-in types.
+4.Implementing friend functions to mimic standard C string library functions.
 
 Advanced Features (Optional Enhancements):
 
-Implement move constructor and move assignment operator for efficiency.
-
-Add exception handling for invalid operations (e.g., out-of-range index).
-
-Support chaining of operations (e.g., s1 + s2 + s3).
-
-Provide utility functions like toUpper(), toLower(), reverse().
+1.Implement move constructor and move assignment operator for efficiency.
+2.Add exception handling for invalid operations (e.g., out-of-range index).
+3.Support chaining of operations (e.g., s1 + s2 + s3).
+4.Provide utility functions like toUpper(), toLower(), reverse().
 
 Testing Strategy:
 
-Unit tests for each operator and function.
-
-Edge cases: empty strings, very large strings, self-assignment.
-
-Performance checks for concatenation and repeated operations.
+1.Unit tests for each operator and function.
+2.Edge cases: empty strings, very large strings, self-assignment.
+3.Performance checks for concatenation and repeated operations.
 
 
 🎯 Why This Project Matters
 By completing this project, you’ll gain practical experience in:
 
-Designing reusable classes.
-
-Managing resources safely in C++.
-
-Writing clean, testable code.
-
-Understanding how standard libraries are built under the hood.
+1.Designing reusable classes.
+2.Managing resources safely in C++.
+3.Writing clean, testable code.
+4.Understanding how standard libraries are built under the hood.
